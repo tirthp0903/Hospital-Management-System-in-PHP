@@ -174,12 +174,26 @@ http://localhost/Hospital_ms/loginadmin.php
 
 Screenshots of the application can be added here to showcase:
 
-* Admin Login
-* Admin Dashboard
-* Patient Management
-* Doctor Management
-* Appointment Management
-* Billing Management
+### 1. Admin Login
+
+### 2. Admin Dashboard
+
+### 3. Add Patient
+
+### 4. View Patients
+
+### 5. Add Doctor
+
+### 6. View Doctors
+
+### 7. Add Appointment
+
+### 8. View Appointments
+
+### 9. Add Bill
+
+### 10. View Bills
+
 
 ## 🎯 Project Objective
 
