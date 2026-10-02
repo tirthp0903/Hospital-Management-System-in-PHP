@@ -176,23 +176,43 @@ Screenshots of the application can be added here to showcase:
 
 ### 1. Admin Login
 
+![Admin Login](./screenshot_output/login_page.png)
+
 ### 2. Admin Dashboard
+
+![Admin Dashboard](./screenshot_output/Dashboard.png)
 
 ### 3. Add Patient
 
+![Add Patient](./screenshot_output/patients_add_form.png)
+
 ### 4. View Patients
+
+![View Patients](./screenshot_output/view_patients.png)
 
 ### 5. Add Doctor
 
+![Add Doctor](./screenshot_output/doctors_add_form.png)
+
 ### 6. View Doctors
+
+![View Doctors](./screenshot_output/view_doctors.png)
 
 ### 7. Add Appointment
 
+![Add Appointment](./screenshot_output/appointments_add_form.png)
+
 ### 8. View Appointments
+
+![View Appointments](./screenshot_output/view_appointments.png)
 
 ### 9. Add Bill
 
+![Add Bill](./screenshot_output/bill_add_form.png)
+
 ### 10. View Bills
+
+![View Bills](./screenshot_output/view_bills.png)
 
 
 ## 🎯 Project Objective
